@@ -1,0 +1,347 @@
+{
+  "generatedAt": "2026-11-17T06:29:08.822966+00:00",
+  "processor": "python-portfolio-engine",
+  "profile": {
+    "name": "Amulya R",
+    "shortName": "Amulya",
+    "headline": "I build ideas into experiences.",
+    "role": "Computer Science & Engineering Student",
+    "specialization": "Artificial Intelligence & Machine Learning",
+    "university": "Jain University",
+    "location": "Bengaluru, India",
+    "githubUrl": "https://github.com/amulyaravi91-sudo/amulya-portfolio",
+    "liveUrl": "https://amulyaravi91-sudo.github.io/amulya-portfolio/",
+    "bioLead": "I'm Amulya R, a B.Tech student at Jain University specializing in Computer Science and Engineering (Artificial Intelligence & Machine Learning).",
+    "bioBody": "I enjoy discovering how technology works, strengthening my fundamentals in mathematics and programming, and turning curious questions into real Python-backed systems.",
+    "pillars": [
+      {
+        "index": "01",
+        "title": "Learn with curiosity",
+        "detail": "Explore new mathematical models, algorithms, and developer tools."
+      },
+      {
+        "index": "02",
+        "title": "Build with purpose",
+        "detail": "Turn academic concepts into testable Python data pipelines."
+      },
+      {
+        "index": "03",
+        "title": "Grow consistently",
+        "detail": "Refine code quality, documentation, and fundamentals step by step."
+      }
+    ]
+  },
+  "education": {
+    "status": "Currently Pursuing",
+    "degree": "Bachelor of Technology (B.Tech)",
+    "field": "Computer Science & Engineering \u2014 Specialization in Artificial Intelligence & Machine Learning",
+    "institution": "Jain University",
+    "location": "Bengaluru, India"
+  },
+  "skills": [
+    {
+      "id": "programming",
+      "category": "Programming",
+      "items": [
+        "Python",
+        "Java",
+        "C"
+      ],
+      "focus": "Backend data processing, algorithm design, and structured problem solving"
+    },
+    {
+      "id": "web",
+      "category": "Web Development",
+      "items": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "focus": "Responsive interfaces and clean client-server API integration"
+    },
+    {
+      "id": "ai-data",
+      "category": "AI & Data",
+      "items": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Analysis"
+      ],
+      "focus": "Statistical modeling, heuristic scoring, and environmental datasets"
+    },
+    {
+      "id": "tools",
+      "category": "Tools & Math",
+      "items": [
+        "GitHub",
+        "VS Code",
+        "MATLAB"
+      ],
+      "focus": "Version control, reproducible notebooks, and matrix computation"
+    }
+  ],
+  "skillMatrix": [
+    {
+      "id": "programming",
+      "category": "Programming",
+      "focus": "Backend data processing, algorithm design, and structured problem solving",
+      "items": [
+        {
+          "name": "Python",
+          "projectCount": 4,
+          "linkedProjects": [
+            "Food Scanner \u2014 Scan.Analyze.Eat",
+            "Traffic Signal Optimization",
+            "Air Quality Index Analysis",
+            "Smart Traffic Signal for Ambulances"
+          ]
+        },
+        {
+          "name": "Java",
+          "projectCount": 0,
+          "linkedProjects": []
+        },
+        {
+          "name": "C",
+          "projectCount": 1,
+          "linkedProjects": [
+            "Smart Traffic Signal for Ambulances"
+          ]
+        }
+      ],
+      "totalReferences": 5
+    },
+    {
+      "id": "web",
+      "category": "Web Development",
+      "focus": "Responsive interfaces and clean client-server API integration",
+      "items": [
+        {
+          "name": "HTML",
+          "projectCount": 0,
+          "linkedProjects": []
+        },
+        {
+          "name": "CSS",
+          "projectCount": 0,
+          "linkedProjects": []
+        },
+        {
+          "name": "JavaScript",
+          "projectCount": 0,
+          "linkedProjects": []
+        },
+        {
+          "name": "TypeScript",
+          "projectCount": 0,
+          "linkedProjects": []
+        }
+      ],
+      "totalReferences": 0
+    },
+    {
+      "id": "ai-data",
+      "category": "AI & Data",
+      "focus": "Statistical modeling, heuristic scoring, and environmental datasets",
+      "items": [
+        {
+          "name": "Artificial Intelligence",
+          "projectCount": 2,
+          "linkedProjects": [
+            "Food Scanner \u2014 Scan.Analyze.Eat",
+            "Smart Traffic Signal for Ambulances"
+          ]
+        },
+        {
+          "name": "Machine Learning",
+          "projectCount": 1,
+          "linkedProjects": [
+            "Air Quality Index Analysis"
+          ]
+        },
+        {
+          "name": "Data Analysis",
+          "projectCount": 3,
+          "linkedProjects": [
+            "Food Scanner \u2014 Scan.Analyze.Eat",
+            "Traffic Signal Optimization",
+            "Air Quality Index Analysis"
+          ]
+        }
+      ],
+      "totalReferences": 6
+    },
+    {
+      "id": "tools",
+      "category": "Tools & Math",
+      "focus": "Version control, reproducible notebooks, and matrix computation",
+      "items": [
+        {
+          "name": "GitHub",
+          "projectCount": 0,
+          "linkedProjects": []
+        },
+        {
+          "name": "VS Code",
+          "projectCount": 0,
+          "linkedProjects": []
+        },
+        {
+          "name": "MATLAB",
+          "projectCount": 1,
+          "linkedProjects": [
+            "Traffic Signal Optimization"
+          ]
+        }
+      ],
+      "totalReferences": 1
+    }
+  ],
+  "projects": [
+    {
+      "id": "food-scanner",
+      "index": "01",
+      "title": "Food Scanner \u2014 Scan.Analyze.Eat",
+      "category": "AI & Nutrition",
+      "domain": "ai",
+      "summary": "A concept and Python nutrition scoring engine that evaluates food items and returns balanced macronutrient insights and dietary ratings.",
+      "skillsUsed": [
+        "Python",
+        "Artificial Intelligence",
+        "Data Analysis"
+      ],
+      "analyzerKey": "food",
+      "metricsLabel": "Macronutrient & Glycemic Scoring"
+    },
+    {
+      "id": "traffic-optimization",
+      "index": "02",
+      "title": "Traffic Signal Optimization",
+      "category": "Mathematics & Mobility",
+      "domain": "math",
+      "summary": "Matrix algebra and Webster cycle-time optimization model for computing balanced green-phase durations across four-way urban intersections.",
+      "skillsUsed": [
+        "Python",
+        "MATLAB",
+        "Data Analysis"
+      ],
+      "analyzerKey": "traffic",
+      "metricsLabel": "Webster Cycle & Delay Solver"
+    },
+    {
+      "id": "aqi-analysis",
+      "index": "03",
+      "title": "Air Quality Index Analysis",
+      "category": "Environmental Data Science",
+      "domain": "data",
+      "summary": "Statistical study of CPCB air quality pollutants (PM2.5, PM10, NO2, SO2) and cross-city variance across major Indian metropolitan centers.",
+      "skillsUsed": [
+        "Python",
+        "Data Analysis",
+        "Machine Learning"
+      ],
+      "analyzerKey": "aqi",
+      "metricsLabel": "CPCB Sub-Index & Correlation"
+    },
+    {
+      "id": "ambulance-corridor",
+      "index": "04",
+      "title": "Smart Traffic Signal for Ambulances",
+      "category": "Smart City Routing",
+      "domain": "ai",
+      "summary": "Graph shortest-path and green-wave signal preemption model designed to reduce emergency ambulance corridor transit times.",
+      "skillsUsed": [
+        "Python",
+        "Artificial Intelligence",
+        "C"
+      ],
+      "analyzerKey": "ambulance",
+      "metricsLabel": "Dijkstra Corridor Preemption"
+    }
+  ],
+  "certificates": [
+    {
+      "id": "wolfram-level-1",
+      "issuer": "Wolfram U",
+      "date": "November 2026",
+      "title": "Level 1 Certificate \u2014 Discrete Mathematics",
+      "credentialFile": "wolfram-level-1-discrete-mathematics.pdf",
+      "url": "https://amulyaravi91-sudo.github.io/amulya-portfolio/wolfram-level-1-discrete-mathematics.pdf",
+      "topics": [
+        "Propositional Logic",
+        "Graph Theory",
+        "Combinatorics"
+      ]
+    },
+    {
+      "id": "wolfram-intro",
+      "issuer": "Wolfram U",
+      "date": "November 2026",
+      "title": "Introduction to Discrete Mathematics",
+      "credentialFile": "introduction-to-discrete-mathematics.pdf",
+      "url": "https://amulyaravi91-sudo.github.io/amulya-portfolio/introduction-to-discrete-mathematics.pdf",
+      "topics": [
+        "Sets & Relations",
+        "Induction",
+        "Discrete Structures"
+      ]
+    }
+  ],
+  "interests": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Python Backend Systems",
+    "Creative Problem Solving",
+    "Data & Urban Technology"
+  ],
+  "summary": {
+    "totalProjects": 4,
+    "pythonBackedProjects": 4,
+    "totalSkillTopics": 13,
+    "verifiedCertificates": 2,
+    "domainBreakdown": {
+      "ai": 2,
+      "math": 1,
+      "data": 1
+    }
+  },
+  "searchIndex": [
+    {
+      "type": "project",
+      "id": "food-scanner",
+      "title": "Food Scanner \u2014 Scan.Analyze.Eat",
+      "searchable": "food scanner \u2014 scan.analyze.eat ai & nutrition a concept and python nutrition scoring engine that evaluates food items and returns balanced macronutrient insights and dietary ratings. python artificial intelligence data analysis"
+    },
+    {
+      "type": "project",
+      "id": "traffic-optimization",
+      "title": "Traffic Signal Optimization",
+      "searchable": "traffic signal optimization mathematics & mobility matrix algebra and webster cycle-time optimization model for computing balanced green-phase durations across four-way urban intersections. python matlab data analysis"
+    },
+    {
+      "type": "project",
+      "id": "aqi-analysis",
+      "title": "Air Quality Index Analysis",
+      "searchable": "air quality index analysis environmental data science statistical study of cpcb air quality pollutants (pm2.5, pm10, no2, so2) and cross-city variance across major indian metropolitan centers. python data analysis machine learning"
+    },
+    {
+      "type": "project",
+      "id": "ambulance-corridor",
+      "title": "Smart Traffic Signal for Ambulances",
+      "searchable": "smart traffic signal for ambulances smart city routing graph shortest-path and green-wave signal preemption model designed to reduce emergency ambulance corridor transit times. python artificial intelligence c"
+    },
+    {
+      "type": "certificate",
+      "id": "wolfram-level-1",
+      "title": "Level 1 Certificate \u2014 Discrete Mathematics",
+      "searchable": "level 1 certificate \u2014 discrete mathematics wolfram u propositional logic graph theory combinatorics"
+    },
+    {
+      "type": "certificate",
+      "id": "wolfram-intro",
+      "title": "Introduction to Discrete Mathematics",
+      "searchable": "introduction to discrete mathematics wolfram u sets & relations induction discrete structures"
+    }
+  ]
+}

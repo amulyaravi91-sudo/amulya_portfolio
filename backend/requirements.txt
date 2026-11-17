@@ -1,0 +1,4 @@
+# Pure Python 3.10+ standard library engines (zero mandatory third-party dependencies).
+# Optional packages if wrapping with ASGI/WSGI in cloud deployments:
+# fastapi>=0.115.0
+# uvicorn>=0.30.0
